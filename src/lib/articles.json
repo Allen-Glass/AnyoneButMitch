@@ -1,0 +1,16 @@
+{
+    "articles": [
+        {
+            "title": "2023 Season Kickoff",
+            "content": "Welcome back gents. Who in their right mind writes a fantasy football blog??",
+            "link": "welcome",
+            "image": "ffwelcome.png"
+        },
+        {
+            "title": "Welcome Back",
+            "content": "Welcome back gents. Who in their right mind writes a fantasy football blog??",
+            "link": "welcome",
+            "image": "ffwelcome.png"
+        }
+    ]
+}
