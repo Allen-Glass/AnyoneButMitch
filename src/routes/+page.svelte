@@ -12,12 +12,12 @@
 	{/each}
 	<div class="my-2 border w-3/4 bg-slate-100 p-4 hover:bg-slate-50 cursor-pointer">
 		<div class="font-bold text-l">
-			Mitch's Current Standing
+			Mitch's Current Losses:
 		</div>
 		<hr class="my-2" />
 		<div class="grid grid-cols-6">
-			<div class="col-span-5">
-				{wins} Wins {losses} Losses {ties} Ties
+			<div class="col-span-5 text-2xl">
+				{losses} Losses
 			</div>
 		</div>
 	</div>
